@@ -1,0 +1,16 @@
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2.deps.json
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2.runtimeconfig.json
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2.runtimeconfig.dev.json
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2.dll
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/ref/8-2.dll
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/bin/Debug/net5.0/8-2.pdb
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.csproj.AssemblyReference.cache
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.AssemblyInfoInputs.cache
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.AssemblyInfo.cs
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.csproj.CoreCompileInputs.cache
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.dll
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/ref/8-2.dll
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.pdb
+/home/joyce/Projects/c#/C# SOFTBLUE/aula8/8-2/obj/Debug/net5.0/8-2.genruntimeconfig.cache
