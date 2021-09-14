@@ -6,11 +6,11 @@ namespace Polimorfismo
   {
     static void Main()
     {
-      Dog dogo = new Dog();
+      Animal dogo = new Dog(); /*the Animal class can ref the new "Dog object"*/
       dogo.Talk();
 
-      Cat kitty = new Cat();
-      kitty.Talk();
+      /*Cat kitty = new Cat();
+      kitty.Talk();*/
     }
   }
 
