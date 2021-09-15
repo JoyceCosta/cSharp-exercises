@@ -8,16 +8,26 @@ namespace Polimorfismo
     {
       Animal dogo = new Dog();
 
-      if (dogo is Dog)
+      // if (dogo is Dog)
+      // {
+      //   Dog d = (Dog)dogo;
+      //   d.Bite();
+      // }
+      // else
+      // {
+      //   Console.WriteLine("Casting can't be done");
+      // }
+
+
+      Dog d = dogo as Dog;
+      if (d != null)
       {
-        Dog d = (Dog)dogo;
         d.Bite();
       }
       else
       {
         Console.WriteLine("Casting can't be done");
       }
-
 
     }
   }
