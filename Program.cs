@@ -8,7 +8,10 @@ namespace Polimorfismo
     {
       Animal dogo = new Dog(); /*the Animal class can ref the new "Dog object"*/
       dogo.Talk();
-      dogo.Bite(); /*not gonna work cause "Animal" does not have the a definition for Bite()*/
+      // dogo.Bite(); /*not gonna work cause "Animal" does not have the a definition for Bite()*/
+
+      Dog d = new Dog();
+      d.Bite(); /*works cause it has the Bite() method on the object created in memory*/
 
 
       /*Cat kitty = new Cat();
