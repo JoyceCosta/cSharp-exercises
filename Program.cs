@@ -8,9 +8,11 @@ namespace Polimorfismo
     {
       Animal dogo = new Dog(); /*the Animal class can ref the new "Dog object"*/
       dogo.Talk();
+      dogo.Bite(); /*not gonna work cause "Animal" does not have the a definition for Bite()*/
+
 
       /*Cat kitty = new Cat();
-      kitty.Talk();*/
+       kitty.Talk();*/
     }
   }
 
@@ -28,6 +30,11 @@ namespace Polimorfismo
     {
       Console.WriteLine("Au-au");
 
+    }
+
+    public void Bite()
+    {
+      Console.WriteLine("Nhac");
     }
 
   }
