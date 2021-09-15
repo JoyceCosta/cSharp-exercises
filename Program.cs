@@ -6,9 +6,19 @@ namespace Polimorfismo
   {
     static void Main()
     {
-      Animal dogo = new Dog(); /*the Animal class can ref the new "Dog" object*/
-      Dog d = (Dog)dogo; /*casting*/
-      d.Bite();
+      Animal dogo = new Dog();
+
+      if (dogo is Dog)
+      {
+        Dog d = (Dog)dogo;
+        d.Bite();
+      }
+      else
+      {
+        Console.WriteLine("Casting can't be done");
+      }
+
+
     }
   }
 
